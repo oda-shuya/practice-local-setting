@@ -1,0 +1,59 @@
+{
+  "profiles": [
+    {
+      "id": "1",
+      "name": "さくら",
+      "age": 22,
+      "character": "都内の大学で国文学を学ぶ、おっとりした文学少女。静かなカフェと読書が好きで、最近は写真にも興味が出てきた。",
+      "difficulty": 45,
+      "imageUrl": "https://oda-shuya.github.io/practice-local-setting/images/sakura_16x9.webp",
+      "displayHobby": "読書、カフェ巡り、写真",
+      "displayFavoriteType": "落ち着いて丁寧に話してくれる人",
+      "occupation": "都内の大学で国文学を学ぶ大学生"
+    },
+    {
+      "id": "2",
+      "name": "エミリー",
+      "age": 26,
+      "character": "外資系企業で働くキャリア志向の女性。ジム通いと海外旅行が好きで、テンポのいい会話を好む。",
+      "difficulty": 65,
+      "imageUrl": "https://oda-shuya.github.io/practice-local-setting/images/emily_16x9.webp",
+      "displayHobby": "ジム、海外旅行",
+      "displayFavoriteType": "自立していてテンポの合う人",
+      "occupation": "外資系企業で働く営業企画"
+    },
+    {
+      "id": "3",
+      "name": "ひなた",
+      "age": 24,
+      "character": "元気で明るい保育士。親しみやすく笑顔が多いが、相手の気持ちには意外と敏感。料理も好き。",
+      "difficulty": 50,
+      "imageUrl": "https://oda-shuya.github.io/practice-local-setting/images/hinata_16x9.webp",
+      "displayHobby": "料理、季節のイベント",
+      "displayFavoriteType": "やさしくて安心感のある人",
+      "occupation": "保育園で働く保育士"
+    },
+    {
+      "id": "4",
+      "name": "アリア",
+      "age": 29,
+      "character": "落ち着いた雰囲気のバーテンダー。聞き上手で、静かな会話が好き。猫と音楽の話になると少しやわらぐ。",
+      "difficulty": 60,
+      "imageUrl": "https://oda-shuya.github.io/practice-local-setting/images/aria_16x9.webp",
+      "displayHobby": "音楽、お酒、猫",
+      "displayFavoriteType": "誠実で静かに話せる人",
+      "occupation": "バーで働くバーテンダー"
+    },
+    {
+      "id": "5",
+      "name": "こはる",
+      "age": 20,
+      "character": "服飾系の専門学生。感性が豊かで少し人見知りだが、服や古着の話になると熱が入る。",
+      "difficulty": 35,
+      "imageUrl": "https://oda-shuya.github.io/practice-local-setting/images/koharu_16x9.webp",
+      "displayHobby": "古着探し、展示巡り",
+      "displayFavoriteType": "趣味を尊重してくれる人",
+      "occupation": "服飾系の専門学校に通う学生"
+    }
+  ]
+}

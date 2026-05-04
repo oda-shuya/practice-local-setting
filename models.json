@@ -1,0 +1,19 @@
+{
+  "models": [
+    {
+      "quality": "BEST",
+      "fileName": "Qwen3.5-4B-Q5_K_M.gguf",
+      "sourceUrl": "https://huggingface.co/unsloth/Qwen3.5-4B-GGUF/blob/main/Qwen3.5-4B-Q5_K_M.gguf"
+    },
+    {
+      "quality": "BALANCED",
+      "fileName": "Qwen3.5-4B-Q4_K_M.gguf",
+      "sourceUrl": "https://huggingface.co/unsloth/Qwen3.5-4B-GGUF/blob/main/Qwen3.5-4B-Q4_K_M.gguf"
+    },
+    {
+      "quality": "POWER_SAVER",
+      "fileName": "Qwen3.5-2B-Q5_K_M.gguf",
+      "sourceUrl": "https://huggingface.co/unsloth/Qwen3.5-2B-GGUF/blob/main/Qwen3.5-2B-Q5_K_M.gguf"
+    }
+  ]
+}
